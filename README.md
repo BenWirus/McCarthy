@@ -9,7 +9,7 @@ Search for CCP members by name and get English results.
 Make sure you have python3, pip, & sqlite installed on your system.
 
 ```bash
-git clone https://github.com/BenWirus/Mccarthy.git
+git clone https://github.com/BenWirus/McCarthy.git mccarthy
 cd mccarthy
 python3 -m pip install -r requirements.txt
 ```
@@ -23,7 +23,7 @@ docker run -ti debian /bin/bash
 cd ~
 apt update
 apt install python3 python3-pip sqlite3 wget git
-git clone https://github.com/BenWirus/Mccarthy.git
+git clone https://github.com/BenWirus/McCarthy.git mccarthy
 cd mccarthy
 wget -O ccp.db https://gitlab.com/shanghai-ccp-member-db/shanghai-ccp-member-db/-/raw/master/shanghai-ccp-member.db
 python3 -m pip install -r requirements.txt
