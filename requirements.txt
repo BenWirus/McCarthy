@@ -1,2 +1,3 @@
 pysqlite3~=0.4.4
 google_trans_new~=1.1.9
+requests~=2.25.0
