@@ -1,4 +1,4 @@
-# Mccarthy
+# McCarthy
 
 Search for CCP members by name and get English results.
 
